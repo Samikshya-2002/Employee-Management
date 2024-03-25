@@ -61,6 +61,7 @@ table {
     border-collapse: collapse;
     font-family: Arial, sans-serif;
     margin-top: 20px;
+    color:black;
 }
 
 th, td {
